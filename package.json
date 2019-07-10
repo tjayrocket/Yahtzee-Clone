@@ -1,0 +1,26 @@
+{
+  "name": "yahtzee-clone",
+  "version": "1.0.0",
+  "description": "Simple Yahtzee clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjayrocket/yahtzee-clone.git"
+  },
+  "keywords": [
+    "Yahtzee",
+    "Game"
+  ],
+  "author": "T.Jay Rocket",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjayrocket/yahtzee-clone/issues"
+  },
+  "homepage": "https://github.com/tjayrocket/yahtzee-clone#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1"
+  }
+}
